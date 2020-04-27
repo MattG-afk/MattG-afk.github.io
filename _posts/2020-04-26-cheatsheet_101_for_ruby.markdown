@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Cheatsheet 101 for Ruby"
-date:       2020-04-27 02:57:14 +0000
+date:       2020-04-26 22:57:15 -0400
 permalink:  cheatsheet_101_for_ruby
 ---
 
