@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Rails Project"
-date:       2020-08-25 03:40:52 +0000
+date:       2020-08-24 23:40:53 -0400
 permalink:  rails_project
 ---
 
@@ -121,4 +121,6 @@ After that I had a issue with showing all my recipes on the index page I had ask
 
 ```
 
-If you would like to check out my code feel free to visit [] https://github.com/MattG-afk/Formuoli-app(http://)
+If you would like to check out my code feel free to visit [] https://github.com/MattG-afk/Formuoli-app(http://). 
+
+
